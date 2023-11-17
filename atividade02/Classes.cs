@@ -5,15 +5,13 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CalcularArea
+namespace Calcular
 {
 
     //***Calcular a área do círculo-----------------------------------------------------------------------
-    internal class Classes
+    internal class Circulo
     {
         public double raio;
-
-
 
         public void TotalArea(double raio)
         {
